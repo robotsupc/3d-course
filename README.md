@@ -12,4 +12,5 @@ Este repositorio contiene el material de los cursos de Robots UPC.
 * [scad-utils](https://github.com/OskarLinde/scad-utils)
 * [List comprehension demos](https://github.com/openscad/list-comprehension-demos)
 * [Thingiverse](https://www.thingiverse.com/)
+* [Print Quality Troubleshooting - Simplify 3D](https://www.simplify3d.com/support/print-quality-troubleshooting/)
 * [Robots UPC](https://robotsupc.github.io)
